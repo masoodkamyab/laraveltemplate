@@ -7,7 +7,7 @@ use Illuminate\Database\Eloquent\Model;
 class BaseModel extends Model
 {
     protected $guarded = ['id'];
-kkkk
+jjjj
 fadfav
     protected $hidden = ['deleted_at', 'extra'];
 }
